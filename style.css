@@ -1,0 +1,44 @@
+.head{
+    background-color: red;
+    height: 200px;
+    margin-bottom: 10px;
+} 
+.sidebar-1{
+    height: 500px;
+    background-color: black;
+    width: 15%;
+    margin-bottom: 10px;
+    float: left;
+    margin-right: 5px;
+}
+.content{
+    height: 500px;
+    background-color: orange;
+    margin-bottom: 10px;
+    width: 69%;
+    float: left;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+.footer{
+    height: 200px;
+    background-color: rgb(43, 110, 71);
+    clear: both;
+}
+.sidebar-2{
+    height: 500px;
+    background-color: black;
+    width: 15%;
+    margin-bottom: 10px;
+    float: left;
+    margin-left: 5px;
+}
+img{
+    height: 500px;
+    width: 100%;
+}
+.dsa{
+    width: 125px;
+    height: 125px;
+    margin-left: 850px;
+} 
